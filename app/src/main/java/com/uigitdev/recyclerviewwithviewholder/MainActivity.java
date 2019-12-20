@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         arrayList.add(new SimpleModel("Item title 2", "Item subtitle 2"));
         arrayList.add(new SimpleModel("Item title 3", "Item subtitle 3"));
         arrayList.add(new SimpleModel("Item title 4", "Item subtitle 4"));
-        
+
         setAdapter();
     }
 
